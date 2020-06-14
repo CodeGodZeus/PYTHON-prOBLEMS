@@ -7,3 +7,7 @@ class Solution:
             pow=pow<<1
             num>>=1
         return result
+ #algoritm:
+#result=0
+#power=1
+#condition
